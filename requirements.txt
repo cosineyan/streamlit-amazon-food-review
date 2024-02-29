@@ -1,3 +1,5 @@
 streamlit
 langchain
-dotenv
+langchain-community
+langchain-core
+python-dotenv
